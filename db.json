@@ -6,7 +6,7 @@
   "questions": [
     {
       "number": 1,
-      "type": "trueFalse"
+      "type": "trueFalse",
       "question": "Java is an OOP language.",
       "answers": [
         "True",
@@ -16,7 +16,7 @@
     },
     {
       "number": 2,
-      "type": "multipleChoice"
+      "type": "multipleChoice",
       "question": "What data structure is first in first out?",
       "answers": [
         "Stack",
@@ -25,15 +25,15 @@
         "Binary Tree"
       ],
       "correct_answer": 3
-    }
+    },
     {
       "number": 3,
-      "type": "text"
+      "type": "text",
       "question": "What is the primitive datatype of the number 1.64?",
       "answers": [
         "double",
       ],
       "correct_answer": 1
-    },
+    }
   ]
 }
