@@ -12,7 +12,8 @@
         "True",
         "False"
       ],
-      "correct_answer": "True"
+      "correct_answer": "True",
+      "explanation": "hbkbh"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
         "Queue",
         "Binary Tree"
       ],
-      "correct_answer": "Queue"
+      "correct_answer": "Queue",
+      "explanation": "hbkbh"
     },
     {
       "id": 3,
@@ -33,7 +35,8 @@
       "answers": [
         "double"
       ],
-      "correct_answer": "double"
+      "correct_answer": "double",
+      "explanation": "hbkbh"
     }
   ]
 }
