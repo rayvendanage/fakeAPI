@@ -1,7 +1,7 @@
 {
   "quiz1": {
     "topic": "Java",
-    "questions": 20,
+    "questions": 20
   },
   "questions": [
     {
@@ -10,7 +10,7 @@
       "question": "Java is an OOP language.",
       "answers": [
         "True",
-        "False",
+        "False"
       ],
       "correct_answer": 1
     },
@@ -31,7 +31,7 @@
       "type": "text",
       "question": "What is the primitive datatype of the number 1.64?",
       "answers": [
-        "double",
+        "double"
       ],
       "correct_answer": 1
     }
