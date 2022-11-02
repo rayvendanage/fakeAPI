@@ -1,1 +1,11 @@
-
+{
+	"stockSymbol": "APPL",
+	"marketPrice": 1200,
+	"hasOptions": true,
+	"estimatedPrice": null,
+	"dailyPrice": {
+		"open": 1000,
+		"close": 1100
+	},
+	"priceHistory": [1000, 1015.10, 1070, 910]
+}
