@@ -37,6 +37,18 @@
       ],
       "correct_answer": "double",
       "explanation": "hbkbh"
+    },
+    {
+      "id": 3,
+      "type": "imageSelection",
+      "question": "What is a binary tree?",
+      "answers": [
+        "https://www.frommers.com/system/media_items/attachments/000/865/785/s980/Vernal_Fall__Yosemite.jpg?1594998523",
+        "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
+      ],
+      "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
+      "explanation": "hbkbh999rerw"
     }
+    
   ]
 }
