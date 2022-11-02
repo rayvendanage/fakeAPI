@@ -26,5 +26,14 @@
       ],
       "correct_answer": 3
     }
+    {
+      "number": 3,
+      "type": "text"
+      "question": "What is the primitive datatype of the number 1.64?",
+      "answers": [
+        "double",
+      ],
+      "correct_answer": 1
+    },
   ]
 }
