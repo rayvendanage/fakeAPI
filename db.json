@@ -61,36 +61,36 @@
      {
       "id": 6,
       "type": "trueFalse",
-      "question": "Java is an OOP language.",
+      "question": "<h1> is the smallest heading tag in HTML.",
       "answers": [
         "True",
         "False"
       ],
-      "correct_answer": "True",
-      "explanation": "hbkbh"
+      "correct_answer": "False",
+      "explanation": "<h1> tag is the largest and they get smaller as the numbers increase."
     },
     {
       "id": 7,
       "type": "multipleChoice",
-      "question": "What data structure is first in first out?",
+      "question": "What does HTML stand for?",
       "answers": [
-        "Stack",
-        "Array",
-        "Queue",
-        "Binary Tree"
+        "HyperText Machine Language",
+        "HyperText Markup Language",
+        "HyperText Marking Language",
+        "HighText Marking Language"
       ],
-      "correct_answer": "Queue",
-      "explanation": "hbkbh"
+      "correct_answer": "HyperText Markup Language",
+      "explanation": "Hypertext means machine readable text and Markup means to structure it in a specific format.So,HTML is called hypertext markup language because it is a language that allows users to organize, improve the appearance of, and link text with data on the internet."
     },
     {
       "id": 8,
       "type": "text",
-      "question": "What is the primitive datatype of the number 1.64?",
+      "question": "Which element is used to get highlighted text in HTML5?",
       "answers": [
-        "double"
+        "<mark>"
       ],
-      "correct_answer": "double",
-      "explanation": "hbkbh"
+      "correct_answer": "<mark>",
+      "explanation": "The <mark> element is used to highlight a section of text. It is useful for quoting a text or if one wants to bring attention to the text. The <b> tag is used to make text/paragraph bold. <u> tag is used to underline the text you wanted."
     },
     {
       "id": 9,
@@ -106,45 +106,45 @@
     {
       "id": 10,
       "type": "fillInBlank",
-      "question": " is a popular javascript library that allows us to programmatically change the view of the page",
+      "question": " is used for styling HTML.",
       "answers": [
       ],
-      "correct_answer": "handlebars",
-      "explanation": "hbkbh"
+      "correct_answer": "css",
+      "explanation": "For styling HTML, CSS i.e Cascading Style Sheet is used. It is style sheet language and designed to describe presentation of its content including layouts, colors and fonts. CSS can control the layout of multiple webpages."
     },
      {
       "id": 11,
       "type": "trueFalse",
-      "question": "Java is an OOP language.",
+      "question": "<img alt=”htmllogo.jpg” /> is the correct syntax for inserting an image.",
       "answers": [
         "True",
         "False"
       ],
-      "correct_answer": "True",
-      "explanation": "hbkbh"
+      "correct_answer": "False",
+      "explanation": " In HTML, <img> tag is used to insert an image in HTML page. Image tag has two attributes (src and Alt). The src attribute is used to specify the image path. The alt attribute is used to specify the alternate text for the image."
     },
     {
       "id": 12,
       "type": "multipleChoice",
-      "question": "What data structure is first in first out?",
+      "question": "Which attribute is used to create a link that opens in a new window tab in HTTML?",
       "answers": [
-        "Stack",
-        "Array",
-        "Queue",
-        "Binary Tree"
+        "src=”_blank”",
+        "alt=”_blank”",
+        "target=”_self”",
+        "target=”_blank”"
       ],
-      "correct_answer": "Queue",
-      "explanation": "hbkbh"
+      "correct_answer": "target=”_blank”",
+      "explanation": "If you add the target=”_blank” attribute in the Anchor tag. target=”_blank” attribute makes a link open in a new window tab."
     },
     {
       "id": 13,
       "type": "text",
-      "question": "What is the primitive datatype of the number 1.64?",
+      "question": "Which tag is used to create a dropdown in HTML Form?",
       "answers": [
-        "double"
+        "<select>"
       ],
-      "correct_answer": "double",
-      "explanation": "hbkbh"
+      "correct_answer": "<select>",
+      "explanation": "<select> element is used to create a drop-down list in HTML Forms. It is mainly used to collect user input. Option tags are used within the <select> element to define available options from the drop-down list."
     },
     {
       "id": 14,
@@ -160,45 +160,45 @@
     {
       "id": 15,
       "type": "fillInBlank",
-      "question": " is a popular javascript library that allows us to programmatically change the view of the page",
+      "question": " attribute specifies a unique alphanumeric identifier to be associated with an element",
       "answers": [
       ],
-      "correct_answer": "handlebars",
-      "explanation": "hbkbh"
+      "correct_answer": "id",
+      "explanation": "The id attribute is most used to point to a style in a style sheet, and by JavaScript (via the HTML DOM) to manipulate the element with the specific id. Class is a name given to HTML elements that can be used by CSS and JavaScript for styling web pages. A self-contained content is called an attribute."
     },
      {
       "id": 16,
       "type": "trueFalse",
-      "question": "Java is an OOP language.",
+      "question": "There is only one way to define a function in JavaScript.",
       "answers": [
         "True",
         "False"
       ],
-      "correct_answer": "True",
-      "explanation": "hbkbh"
+      "correct_answer": "False",
+      "explanation": "There are multiple ways to define a function in javascript including annonymous functions annd function expressions such as arrow functions."
     },
     {
       "id": 17,
       "type": "multipleChoice",
-      "question": "What data structure is first in first out?",
+      "question": "Which of the following tag is used to embed css in html page?",
       "answers": [
-        "Stack",
-        "Array",
-        "Queue",
-        "Binary Tree"
+        "<css>",
+        "<!DOCTYPE html>",
+        "<script>",
+        "<style>"
       ],
-      "correct_answer": "Queue",
-      "explanation": "hbkbh"
+      "correct_answer": "<style>",
+      "explanation": "<style> </style> tag is used to embed CSS in HTML page, while <script> </script> is used to embed JS in HTML. <!DOCTYPE html> is HTML5 declaration."
     },
     {
       "id": 18,
       "type": "text",
-      "question": "What is the primitive datatype of the number 1.64?",
+      "question": "What CSS selector is used to specify a group of elements not of a specific type?",
       "answers": [
-        "double"
+        "class"
       ],
-      "correct_answer": "double",
-      "explanation": "hbkbh"
+      "correct_answer": "class",
+      "explanation": "Class selectors are used to specify a group of elements. Id selector specifies a particular unique element. Element selectors are used to specify a specific type of element."
     },
     {
       "id": 19,
@@ -214,11 +214,11 @@
     {
       "id": 20,
       "type": "fillInBlank",
-      "question": " is a popular javascript library that allows us to programmatically change the view of the page",
+      "question": " selectors have the highest priority of all the CSS selectors when syling and multiple selectors are applied",
       "answers": [
       ],
-      "correct_answer": "handlebars",
-      "explanation": "hbkbh"
+      "correct_answer": "id",
+      "explanation": "ID selectors will take priority then class selectors, then element selectors."
     }
     
   ]
