@@ -13,7 +13,7 @@
         "False"
       ],
       "correct_answer": "True",
-      "explanation": "hbkbh"
+      "explanation": "Java is an object oriented programming language."
     },
     {
       "id": 2,
@@ -26,28 +26,28 @@
         "Binary Tree"
       ],
       "correct_answer": "Queue",
-      "explanation": "hbkbh"
+      "explanation": "Queues are simular to a line. Stacks are first in last out."
     },
     {
       "id": 3,
       "type": "text",
-      "question": "What is the primitive datatype of the number 1.64?",
+      "question": "What is the datatype of the number 1.64 in java?",
       "answers": [
         "double"
       ],
       "correct_answer": "double",
-      "explanation": "hbkbh"
+      "explanation": "Doubles are decimal numbers and ints are whole numbers."
     },
     {
       "id": 4,
       "type": "imageSelection",
       "question": "What is a binary tree?",
       "answers": [
-        "https://www.frommers.com/system/media_items/attachments/000/865/785/s980/Vernal_Fall__Yosemite.jpg?1594998523",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tree_%28computer_science%29.svg/440px-Tree_%28computer_science%29.svg.png",
         "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
       ],
       "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
-      "explanation": "hbkbh999rerw"
+      "explanation": "Biary trees have 0-2 child nodes."
     },
     {
       "id": 5,
@@ -56,7 +56,7 @@
       "answers": [
       ],
       "correct_answer": "handlebars",
-      "explanation": "hbkbh"
+      "explanation": "Handlebars Template engine allows us to create new views for a page and build single page applications."
     },
      {
       "id": 6,
@@ -94,14 +94,16 @@
     },
     {
       "id": 9,
-      "type": "imageSelection",
-      "question": "What is a binary tree?",
+      "type": "multipleChoice",
+      "question": "Which of the following CSS property is used to make the text bold?",
       "answers": [
-        "https://www.frommers.com/system/media_items/attachments/000/865/785/s980/Vernal_Fall__Yosemite.jpg?1594998523",
-        "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
+        "text-decoration: bold",
+        "font-weight: bold",
+        "font-style: bold",
+        "text-align: bold"
       ],
-      "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
-      "explanation": "hbkbh999rerw"
+      "correct_answer": "font-weight: bold",
+      "explanation": "The font-weight property is used for setting the thickness and boldness of the font. It is used to define the weight of the text. The available weight depends on the font-family, which is used by the browser."
     },
     {
       "id": 10,
@@ -148,14 +150,13 @@
     },
     {
       "id": 14,
-      "type": "imageSelection",
-      "question": "What is a binary tree?",
+      "type": "text",
+      "question": "Which CSS framework is used to create responsive design?",
       "answers": [
-        "https://www.frommers.com/system/media_items/attachments/000/865/785/s980/Vernal_Fall__Yosemite.jpg?1594998523",
-        "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
+        "bootstrap"
       ],
-      "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
-      "explanation": "hbkbh999rerw"
+      "correct_answer": "bootstrap",
+      "explanation": "Bootstrap is a free and open-source collection of tools for creating websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. It aims to ease the development of dynamic websites and web applications."
     },
     {
       "id": 15,
@@ -203,13 +204,13 @@
     {
       "id": 19,
       "type": "imageSelection",
-      "question": "What is a binary tree?",
+      "question": "Which is a representation of a hash map?",
       "answers": [
-        "https://www.frommers.com/system/media_items/attachments/000/865/785/s980/Vernal_Fall__Yosemite.jpg?1594998523",
-        "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
+        "https://www.researchgate.net/publication/284454241/figure/fig2/AS:391461272080393@1470343048820/Hash-table-representation-for-separate-chaining.png",
+        "https://www.alphacodingskills.com/imgfiles/linked-list.PNG"
       ],
-      "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
-      "explanation": "hbkbh999rerw"
+      "correct_answer": "https://www.researchgate.net/publication/284454241/figure/fig2/AS:391461272080393@1470343048820/Hash-table-representation-for-separate-chaining.png",
+      "explanation": "Hash maps are key value pairs while the other image is a linked list, a list of nodes with next pointers linking them to each other."
     },
     {
       "id": 20,
